@@ -7,7 +7,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BryanAyalaL&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="175" alt="stats graph" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BryanAyalaL&radius=15&theme=github-dark&area=true&order=5&hide_title=false&hide_border=true" height="175" alt="activity-graph graph" />
+  
 </div>
 
 <hr>
@@ -44,4 +44,7 @@
   <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&style=for-the-badge" height="40" alt="whatsapp logo" />
   <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&style=for-the-badge" height="40" alt="telegram logo" />
   <img src="https://img.shields.io/static/v1?message=Signal&logo=signal&label=&color=039BE5&logoColor=white&style=for-the-badge" height="40" alt="signal logo" />
+</div>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BryanAyalaL&radius=15&theme=github-dark&area=true&order=5&hide_title=false&hide_border=true" height="300" alt="activity-graph graph" />
 </div>
